@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.playback.PlaybackFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/title1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintHorizontal_weight="1"
+            android:textColor="@color/colorText"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintTop_toBottomOf="@id/srt_txt"
+            tools:text="Lion King" />
+
+
+        <TextView
+            android:id="@+id/publisher1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintHorizontal_weight="1"
+            android:textColor="@color/colorText"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            app:layout_constraintTop_toBottomOf="@id/title1"
+            tools:text="Disney" />
+
+
+    <com.google.android.exoplayer2.ui.SimpleExoPlayerView
+        android:id="@+id/simpleExoPlayerView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp" />
+
+        <TextView
+            android:id="@+id/srt_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="@color/colorBackground"
+            android:textSize="25sp"
+            android:textIsSelectable="true"
+            android:text=""/>
+
+<!--        <TextView-->
+<!--            android:id="@+id/showDef"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            />-->
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

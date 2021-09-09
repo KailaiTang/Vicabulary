@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViCabulary</string>
+    <string name="subtitles">subtitles</string>
+    <string name="title_select">Movies</string>
+    <string name="title_playback">Playback</string>
+    <string name="title_vocabulary">Words</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel"> Cancel </string>
+    <string name="restart">Restart</string>
+    <string name="save"> Save </string>/>
+    <string name= "sample_explanation">a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.</string>
+    <string name="delete">Delete</string>
+    <string name="keep">Keep</string>
+
+</resources>

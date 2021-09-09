@@ -1,0 +1,44 @@
+{
+  "metadata":[
+    {
+      "name":"Disneys Zootopia",
+      "publisher":"Walt Disney Animation Studios",
+      "duration":"3:09",
+      "clip":"https://vicabulary-video.s3.us-east-2.amazonaws.com/zootopia/Popsicle Clip - Disneys Zootopia.mp4",
+      "subtitle":"https://vicabulary-video.s3.us-east-2.amazonaws.com/zootopia/Popsicle Clip - Disneys Zootopia.en.srt",
+      "cover":"https://vicabulary-video.s3.us-east-2.amazonaws.com/zootopia/Popsicle+Clip+-+Disneys+Zootopia.jpg"
+    },
+    {
+      "name":"Frozen 2 - Into the Unknown",
+      "publisher":"DisneyMusicVEVO",
+      "duration":"3:29",
+      "clip":"https://vicabulary-video.s3.us-east-2.amazonaws.com/frozen/Idina Menzel AURORA - Into the Unknown (From Frozen 2).mp4",
+      "subtitle":"https://vicabulary-video.s3.us-east-2.amazonaws.com/frozen/Idina Menzel AURORA - Into the Unknown (From Frozen 2).en.srt",
+      "cover":"https://vicabulary-video.s3.us-east-2.amazonaws.com/frozen/Idina+Menzel+AURORA+-+Into+the+Unknown+(From+Frozen+2).jpg"
+    },
+    {
+      "name":"Lifting Thor's Hammer - Avengers Age of Ultron",
+      "publisher":"BestClips",
+      "duration":"4:11",
+      "clip":"https://vicabulary-video.s3.us-east-2.amazonaws.com/Avengers/Lifting+Thors+Hammer+-+Avengers+Age+of+Ultron+(2015)+Movie+CLIP+HD.mp4",
+      "subtitle":"https://vicabulary-video.s3.us-east-2.amazonaws.com/Avengers/Lifting+Thors+Hammer+-+Avengers+Age+of+Ultron+(2015)+Movie+CLIP+HD.en.srt",
+      "cover":"https://vicabulary-video.s3.us-east-2.amazonaws.com/Avengers/Lifting+Thors+Hammer+-+Avengers+Age+of+Ultron+(2015)+Movie+CLIP+HD.jpg"
+    },
+    {
+      "name":"Life is a Box of Chocolates - Forrest Gump",
+      "publisher":"Movieclips",
+      "duration":"2:21",
+      "clip":"https://vicabulary-video.s3.us-east-2.amazonaws.com/Forrest Gump/Life is a Box of Chocolates - Forrest Gump (79) Movie CLIP (1994) HD.mp4",
+      "subtitle":"https://vicabulary-video.s3.us-east-2.amazonaws.com/Forrest Gump/Life is a Box of Chocolates - Forrest Gump (79) Movie CLIP (1994) HD.en.srt",
+      "cover":"https://vicabulary-video.s3.us-east-2.amazonaws.com/Forrest Gump/Life is a Box of Chocolates - Forrest Gump (79) Movie CLIP (1994) HD.jpg"
+    },
+    {
+      "name":"You hate her - Flipped",
+      "publisher":"Movieclips",
+      "duration":"1:31",
+      "clip":"https://vicabulary-video.s3.us-east-2.amazonaws.com/Flipped/Flipped 8 Movie CLIP - You Hate Her (2010) HD.mp4",
+      "subtitle":"https://vicabulary-video.s3.us-east-2.amazonaws.com/Flipped/Flipped 8 Movie CLIP - You Hate Her (2010) HD.en.srt",
+      "cover":"https://vicabulary-video.s3.us-east-2.amazonaws.com/Flipped/Flipped 8 Movie CLIP - You Hate Her (2010) HD.jpg"
+    }
+  ]
+}
